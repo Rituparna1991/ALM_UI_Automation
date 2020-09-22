@@ -1,0 +1,33 @@
+{ 
+
+"Dimension":"Product",
+"NameSearch":"test_8787",
+"Description":"Auto_desc",
+"Product_Hierarchy":"Total_Hierarchy",
+"Product":"Total_Products",
+"Subproduct":"Toatl_Asset",
+"Cal_Method1":"Do not calculate",
+"Cal_Method2":"Constant",
+"Cal_Method3":"Prepayment Model",
+"Cal_Method4":"Arctangent",
+"Cal_Method5":"PSA",
+"Cal_Method6":"Adco Prepayment",
+"Dimension_Name_dropdown":"Exactly Matches",
+"Product_Name":"Toatl_Asset",
+"Dimension_Member_Status":"All",
+"select_Dimension_Member_Numericcode_status":"Exactly Matches",
+"Dimension_Member_Numeric_Code":"15",
+"select_Dimension_Member_alphaNumericcode_status":"Exactly Matches",
+"Dimension_Member_AlphaNumeric_Code":"15",
+"Constant_Percent":"10.00" ,
+"Prepayment model":"47dhg",
+"Spread_value":"10.00",
+"Constant Coe.K 1":"5.00",
+"Constant Coe.K 2":"7.00",
+"Constant Coe.K 3":"9.00",
+"Constant Coe.K 4":"11.00",
+"Filter": "F001",
+"Disable_status_Name":"true",
+"Disable_status_Description":"true"
+
+}

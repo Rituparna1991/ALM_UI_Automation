@@ -1,0 +1,18 @@
+{
+	"formatInvalidErrorMessage": "Invalid Name! Only Alphanumeric and special characters like _ and - are allowed",
+	"validName":"AutotestPortfolio",
+	"validDescription":"testPortfolioDescription",
+	"300charForDescription":"Value at Risk is a statistic or matrix that measure the level of financial risk with in the firm, portfolio or position over a specific time frame.Value at Risk is a statistic or matrix that measure the level of financial risk with in the firm, portfolio or position over a specific time frame value.",
+	"charlengthMessage": "Name cannot exceed 30 characters",
+	"validlength29char":"wwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+	"emptyErrorMessage":"Name cannot be empty",
+	"enterSomeTextErrorMessage":"You must enter a value.",
+	"invalidLength30":"1111111111111111111111111111111",
+	"invalidDescription":"Invalid Description!",
+	"charLengthDesciptionMessage":"Description cannot exceed 300 characters",
+	"textValueNULL":"NULL",
+	"folderMRMMValue":"OFSMRMMSEG",
+	"version":"1",
+	"availablePositionFilter":"Available Position Filters",
+	"emptyAvailablePositionTable":"** Please apply the filter to get the position details"
+}

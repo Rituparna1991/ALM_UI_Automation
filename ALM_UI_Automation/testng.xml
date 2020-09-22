@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite" verbose="1">
+	<!-- <listeners> <listerner class-name="com.mrmm.automation.genericutils.AnnotationTransformer"/> 
+		</listeners> -->
+	<test name="Default test">
+		<!-- <groups>
+			<run>
+			<include name="SmokeTestScript" />
+			</run>
+		</groups> -->
+		<classes>
+			<!-- <class name="com.alm.automation.test.OfsaaLoginTest" />--> 
+			<!-- <class name="com.alm.automation.test.OfsaaWelcomeTest" /> -->
+			<class name="com.alm.automation.test.PrepaymentsTest" />
+			
+		</classes>
+	</test> <!-- Default test -->
+</suite> <!-- Default suite -->
