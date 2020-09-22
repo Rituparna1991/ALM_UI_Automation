@@ -192,7 +192,7 @@ public class PrepaymentsTest extends BaseSuite {
 	 * 
 	 * @throws Exception
 	 */
-	//@Test(enabled = true, priority = 2, groups = "prePayments")
+	@Test(enabled = true, priority = 2, groups = "prePayments")
 	public void addDoNotCalculate() throws Exception {
 
 		SoftAssert softAssert = new SoftAssert();
@@ -1067,7 +1067,7 @@ public class PrepaymentsTest extends BaseSuite {
 	 * @throws Exception
 	 */
 
-	@Test(enabled = true, priority = 24, groups = "prePayments")
+	//@Test(enabled = true, priority = 24, groups = "prePayments")
 	public void conditionalAssumptionAdcoPayment() throws Exception {
 		
 		SoftAssert softAssert = new SoftAssert();
